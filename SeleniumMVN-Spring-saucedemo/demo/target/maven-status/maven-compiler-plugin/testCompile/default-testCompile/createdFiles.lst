@@ -1,0 +1,10 @@
+pageobject\CartPage.class
+pageobject\CheckoutOverviewPage.class
+pageobject\SauceInitialPage.class
+pageobject\Base.class
+pageobject\MenuOptionsPage.class
+pageobject\SauceLoginPage.class
+pageobject\CheckoutCompletePage.class
+constantsglobal\ConstantsGeneral.class
+saucedemo\SauceTest.class
+pageobject\CheckoutPage.class
